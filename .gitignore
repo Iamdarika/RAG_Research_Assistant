@@ -1,0 +1,11 @@
+# Python temporary/cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env
+
+# Data and Vector Store indexes (keeps repository light)
+data/
+faiss_index/
