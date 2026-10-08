@@ -9,3 +9,4 @@ venv/
 # Data and Vector Store indexes (keeps repository light)
 data/
 faiss_index/
+chroma_db/
